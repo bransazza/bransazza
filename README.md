@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Gibran 👋
 
-<!--
-**bransazza/bransazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a electrical engineering student at Telkom University⚡. I like robotics and music. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 Projects
+### Project 1: Floor Moping Robot(https://github.com/bransazza/floor-moping-robot.git)
+Robot pengepel lantai dengan 2 mode otomatis dan manual.
+### Project 2: SI PAMER([link](https://github.com/bransazza/webdev1-project.git))
+SItus PenjuAlan MERch (SI PAMER) menyediakan marketplace untuk UKM Tel-U guna menjual merchandise seperti topi, lanyard, dan sebagainya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Skills
+- 💻 Programming: Python, C, C++
+- 🔧 Tools: Git, Arduino IDE, VSCode, STM32 CUBE IDE
+
+## 📊 GitHub Stats
+![Bransazza's GitHub stats](https://github-readme-stats.vercel.app/api?username=bransazza&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bransazza&layout=compact)
+
+## 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/gibran-reza-al-ghazzali-1380a0322)
+- [Email](mailto:gibranreza0@gmail.com)
+
+![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bransazza&title=Profile%20Views)
