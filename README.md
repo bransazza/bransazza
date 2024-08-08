@@ -17,7 +17,7 @@ SItus PenjuAlan MERch (SI PAMER) menyediakan marketplace untuk UKM Tel-U guna me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bransazza&layout=compact)
 
 ## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/gibran-reza-al-ghazzali-1380a0322)
+- [LinkedIn](https://www.linkedin.com/in/gibran-reza-al-ghazzali-1380a0322)
 - [Email](mailto:gibranreza0@gmail.com)
 
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bransazza&title=Profile%20Views)
