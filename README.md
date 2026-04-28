@@ -36,9 +36,6 @@ A digital conveyor system that automates object classification and waste sorting
 
 - **LinkedIn:** [Gibran Reza Al Ghazzali](https://www.linkedin.com/in/gibran-reza-al-ghazzali-1380a0322)
 - **Email:** [gibranreza0@gmail.com](mailto:gibranreza0@gmail.com)
-- **Portfolio:** [Check out my full portfolio here!](https://bransazza.github.io/nama-repo-website-portofolio-kamu) 
+- **Portfolio:** [Check out my full portfolio here!](https://portogibran.vercel.app/) 
 
-<br>
-<div align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bransazza&title=Profile%20Views" alt="visitors" />
-</div>
+
