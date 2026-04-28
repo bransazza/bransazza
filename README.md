@@ -4,15 +4,15 @@ I am an Electrical Engineering student at Telkom University ⚡. I specialize in
 
 ## 🚀 Top Projects
 
-### 🏆 [SEMERBAK IoT - Innovillage 2024 (2nd Place)](#)
+### 🏆 [SEMERBAK IoT - Innovillage 2024 (2nd Place)](https://github.com/bransazza/Semerbak-IoT.git)
 An award-winning IoT system designed to tackle food insecurity. Features include an automated watering algorithm, real-time web dashboard integration, and complex electrical wiring.
 - **Tech Stack:** ESP32, Arduino IDE, Firebase, HTML/JS/CSS, Fusion 360
 
-### 🕷️ [KRSRI Search & Rescue Hexapod Robot](#)
+### 🕷️ [KRSRI Search & Rescue Hexapod Robot](https://github.com/bransazza/KRSRI-ROS.git)
 A six-legged Search and Rescue (SAR) robot developed for the KRSRI national robotics competition. Features autonomous navigation, object retrieval algorithms, and real-time image processing.
 - **Tech Stack:** ROS/ROS2, STM32, Python, C++, OpenCV, Ubuntu
 
-### ♻️ [AI-Powered Sorting Conveyor](#)
+### ♻️ [AI-Powered Sorting Conveyor](https://github.com/bransazza/Digital-Conveyor-Xiao-Computer-Vision.git)
 A digital conveyor system that automates object classification and waste sorting using Machine Learning at the edge.
 - **Tech Stack:** XIAO ESP32S3, STM32, Edge Impulse (TinyML), PlatformIO, EasyEDA
 
@@ -36,7 +36,9 @@ A digital conveyor system that automates object classification and waste sorting
 
 - **LinkedIn:** [Gibran Reza Al Ghazzali](https://www.linkedin.com/in/gibran-reza-al-ghazzali-1380a0322)
 - **Email:** [gibranreza0@gmail.com](mailto:gibranreza0@gmail.com)
-- **Portfolio:** [Check out my full portfolio here!](#) <br>
+- **Portfolio:** [Check out my full portfolio here!](https://bransazza.github.io/nama-repo-website-portofolio-kamu) 
+
+<br>
 <div align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bransazza&title=Profile%20Views" alt="visitors" />
 </div>
